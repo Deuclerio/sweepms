@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "stmp.gmail.com",
+  "port": 465,
+  "username": "portconsultoria.rh@gmail.com",
+  "password": "LDhk#753",
+  "recipientEmail": "contato@portconsultoria.com.br"
+}
